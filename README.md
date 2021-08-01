@@ -9,12 +9,17 @@
 
 > ListButton
 
-> git clone https://github.com/ZuxyGanz/HawCan
+> ftoko
+fgif
+fimage
+ftroli
+fdocu
+dan lain lain
+> autoCulik
 
-> cd Hawcan
+> AutoAdmin
 
-> bash install.sh
-
+> Fitur Lain Liat Aja Di Dalem
 ```
 
 

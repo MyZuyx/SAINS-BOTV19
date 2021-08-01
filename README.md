@@ -1,16 +1,21 @@
 ## SAINS BOT V19
 
 ## FITUR 
-{
-Fitur
-sticCmd
-ButtonV1
-ButtonV1
-autoCulik
-cape euy Liat ae lah
-Fitur nya Sendiri
+```bash
 
-}
+> stickCmd
+
+> ButtonCmd
+
+> ListButton
+
+> git clone https://github.com/ZuxyGanz/HawCan
+
+> cd Hawcan
+
+> bash install.sh
+
+```
 
 
 

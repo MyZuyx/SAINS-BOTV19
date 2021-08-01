@@ -10,11 +10,11 @@
 > ListButton
 
 > ftoko
-fgif
-fimage
-ftroli
-fdocu
-dan lain lain
+-fgif
+-fimage
+-ftroli
+-fdocu
+--dan lain lain
 > autoCulik
 
 > AutoAdmin
